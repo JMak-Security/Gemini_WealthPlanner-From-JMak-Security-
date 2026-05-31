@@ -8,7 +8,7 @@ Gemini WealthPlanner moves completely beyond the rigid constraints of traditiona
 
 ## 📺 Project Demonstrations
 
-* **[Video 1: Real-Time Market Grounding Loop](https://youtu.be/z_3b5JbOlyc)** *Watch the core execution pipeline intercept local network endpoints, parse web pricing databases, and structure multi-category budget blocks in real-time.*
+* **[Video 1: Real-Time Market Grounding Loop](https://youtu.be/gu2TqANfzzk)** *Watch the core execution pipeline intercept local network endpoints, parse web pricing databases, and structure multi-category budget blocks in real-time.*
 
 ---
 
