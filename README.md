@@ -76,6 +76,6 @@ Every interactive budget environment is built to capture complex, changing real-
 The official build source is hosted within this repository. You can clone and run the wealth sandbox workspace locally using:
 
 ```bash
-git clone https://github.com/YourRepoPath/Gemini-WealthPlanner.git
+git clone https://github.com/JMak-Security/Gemini_WealthPlanner-From-JMak-Security-.git
 
 ```
